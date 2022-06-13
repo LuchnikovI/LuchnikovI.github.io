@@ -1,47 +1,18 @@
-# Setup
-title: Dark Poole
-url: https://getpoole.com
-paginate: 1
-baseurl: ""
-permalink: pretty
+name: Ilia Luchnikov
+description: Here I host my blogposts and some information about my projects
 
-# Gems
-plugins:
-  - jekyll-gist
-  - jekyll-paginate
-  - jekyll-seo-tag
+markdown: kramdown
+highlighter: rouge
+logo: false
+paginate: 15
+baseurl: /about
+domain_name: "http://LuchnikovI.github.io"
+google_analytics: "UA-XXXXXXXX-X"
+plugins: [jekyll-paginate]
 
-# Optimize Jekyll
-exclude:
-  - .editorconfig
-  - .git
-  - .jekyll-cache
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE.md
-  - README.md
+# Details for the RSS feed generator
+url: "LuchnikovI.github.io"
+author: "Ilia Luchnikov"
 
-sass:
-  sass_dir: _sass
-  style: :compressed
-
-# Options
-
-# Replace this value and uncomment to enable Google Analytics tracking
-# ga_analytics: UA-000000-0
-
-# Specify the author for blog posts
-author:
-  name: Ilia Luchnikov
-  email: luchnikovilya@gmail.com
-
-# Custom vars
-version: 3.0.0
-
-# Navbar page list
-nav:
-  - title: Blog
-    url: /archive
-
-  - title: About
-    url: /about
+# Disqus config
+disqus-shortname: ""

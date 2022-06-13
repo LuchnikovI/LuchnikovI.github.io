@@ -1,6 +1,7 @@
 ---
 layout: page
-title: About
+title: About me 
 ---
 
-My name is Ilia Luchnikov, I am leading research fellow at Russian Quantum Center. Here is my personal pages where I am going to post some short blogposts about ....
+<img align="left" width="100" height="100" src="assets/images/profile.png">
+placeholder
