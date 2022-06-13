@@ -1,6 +1,5 @@
 # Setup
-title: personal page
-tagline: The Jekyll Butler
+title: Dark Poole
 url: https://getpoole.com
 paginate: 1
 baseurl: ""
@@ -38,3 +37,11 @@ author:
 
 # Custom vars
 version: 3.0.0
+
+# Navbar page list
+nav:
+  - title: Blog
+    url: /archive
+
+  - title: About
+    url: /about
