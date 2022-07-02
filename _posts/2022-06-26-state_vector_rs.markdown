@@ -276,4 +276,4 @@ Conclusion
 ==========
 Rust programming language is amazing. It allows one to implement fast and reliable programs for numerical simulation of complex systems with ease. Of corse, it is not as simple as with Julia or Python, but Rust proposes much more possibilities since you may implement almost anything from scratch without any performance trade-off. 
 
-Fill free to modify the code from the repo for your purposes. The core logic of the emulator is placed in the folder `state_vector_machine`, you can apply it to your own numerical experiments.
+Feel free to modify the code from the repo for your purposes. The core logic of the emulator is placed in the folder `state_vector_machine`, you can apply it to your own numerical experiments.
